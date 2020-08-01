@@ -4,4 +4,4 @@ A simple sqlite clone written in C
 
 ## Progress
 
-Pt.2
+Pt. 4
